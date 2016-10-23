@@ -1,3 +1,10 @@
+# Application specific
+#  demo.db can be created by running models.py from the command prompt.
+demo.db
+
+#
+# The following was created by github.
+#
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
